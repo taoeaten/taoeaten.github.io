@@ -1,0 +1,4 @@
+name: 桃小蛋蛋的生活点滴
+markdown: redcarpet
+pygments: true
+paginate: 5
